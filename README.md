@@ -1,4 +1,4 @@
-Real-Time DDoS Intrusion Detection System (NIDS)
+## Real-Time DDoS Intrusion Detection System (NIDS)
 
 A high-performance Network Intrusion Detection System (NIDS) that utilizes Unsupervised Machine Learning (Isolation Forest) to detect zero-day DDoS attacks in real-time. The system features a Hybrid Threat Classifier to identify specific attack types (UDP/SYN/FIN Floods) and a modern React Dashboard for live monitoring.
 
@@ -82,4 +82,5 @@ Push to the Branch
 
 Open a Pull Request
 
-Developed by ALWYN SHARON A & YOGESWARAN CS | Cybersecurity Internship Project
+Developed by ALWYN SHARON A & YOGESWARAN CS | Cybersecurity Project
+
